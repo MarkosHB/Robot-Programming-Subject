@@ -1,2 +1,3 @@
 # Robot-Programming-Subject
 Do u like &lt;3 robots as much as me? Don't think so...
+- Have a look at [Practica1.pdf](./P1-Robotic_Arm/Practica1.pdf) to learn more about how to program Robotic Arms using Matlab and Scorbot.
